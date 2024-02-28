@@ -13,7 +13,7 @@
 
 # How to run
 
-```
+```shell
 curl 'http://prkwan.192.168.20.147.nip.io:8888/api/prkwan?verify=cookie' \
 -H 'Cookie: access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzZXJuYW1lIjoibWFyaWEiLCJyb2xlcyI6WyJndWVzdCIsInVzZXIiXSwiaWF0IjoxNjkyMzUxNzU4LCJleHAiOjE2OTIzNTIwNTh9.GOqkLFIqKN2DGXpanBGKfbGfETnbM9ge3-FMltBLyhQ' | jq
 ```
